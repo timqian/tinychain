@@ -2,7 +2,7 @@
 
 *Putting the rough in "[rough consensus](https://tools.ietf.org/html/rfc7282#section-1)"*
 
-
+- [ ] hi
 Tinychain is a pocket-sized implementation of Bitcoin. Its goal is to
 be a compact, understandable, working incarnation of 
 [the Nakamoto consensus algorithm](https://bitcoin.org/bitcoin.pdf) at the
